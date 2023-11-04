@@ -130,3 +130,4 @@ out
 tailwind.config.js
 postcss.js
 main.css
+!dist/main.css
